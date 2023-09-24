@@ -1,4 +1,4 @@
-# Exploring-different-hyperparameter-tuning-methods-for-machine-learning-models
+
 
 This repository contains a machine learning example using the classic Iris dataset. I explore hyperparameter tuning methods including Grid Search, Random Search, and Bayesian Optimization for optimizing the performance of SVM, Decision Tree, Random Forest, and Logistic Regression models.
 

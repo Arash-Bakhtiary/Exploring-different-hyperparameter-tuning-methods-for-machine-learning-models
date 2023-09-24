@@ -19,9 +19,10 @@ Efficient for exploring the hyperparameter space, especially for large search sp
 
 A probabilistic model-based optimization method that adapts to the search space. optimization method that
 Efficiently selects the most promising hyperparameters based on previous evaluations.
-Contributing
 
-## Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
+## Contributing
+
+Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
 
 - Fork the project on GitHub.
 - Clone the forked project to your local machine.
